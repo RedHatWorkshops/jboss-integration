@@ -1,1 +1,1 @@
-# jboss-integration
+# Red Hat JBoss Integration Workshop
